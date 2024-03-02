@@ -19,7 +19,7 @@ export default {
 					{ text: '🏅Badges', link: `/${lang}/badges` },
 				]
 			},
-			{ text: 'Donate', link: 'https://leawind.github.io/en/donate' },
+			{ text: '💰Donate', link: 'https://leawind.github.io/en/donate' },
 		],
 		sidebar: {
 			'/en-US/Features': buildSidebar(`/${lang}/Features`),

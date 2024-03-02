@@ -8,15 +8,15 @@ hero:
   tagline: tagline
   image: 
   actions:
-    - theme: brand
+    - theme: alt
+      text: 📥Download
+      link: ./#Download
+    - theme: alt
       text: 🕗Changelog
       link: ./changelog
     - theme: alt
-      text: CurseForge
-      link: .
-    - theme: alt
-      text: Modrinth
-      link: .
+      text: 💡Got Issue
+      link: ./Q&A/
 features:
   - title: Features
     details: 👁Features

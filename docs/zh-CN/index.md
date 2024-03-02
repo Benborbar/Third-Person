@@ -8,15 +8,15 @@ hero:
   tagline: 一个实用、丝滑、功能丰富的第三人称模组
   image: 
   actions:
-    - theme: brand
+    - theme: alt
+      text: 📥下载
+      link: ./#下载
+    - theme: alt
       text: 🕗更新日志
       link: ./changelog
     - theme: alt
-      text: CurseForge
-      link: .
-    - theme: alt
-      text: Modrinth
-      link: .
+      text: 💡遇到问题
+      link: ./Q&A/
 features:
   - title: Features
     details: 👁详细特性
