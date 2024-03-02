@@ -5,7 +5,7 @@ layout: home
 hero:
   name: Leawind's Third Person
   text: 
-  tagline: tagline
+  tagline: A practical, smooth, feature-rich third-person mod.
   image: 
   actions:
     - theme: alt
