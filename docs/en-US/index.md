@@ -45,13 +45,17 @@ This documentation is only applicable to version 2.0.6 and above.
 
 Toggle between first-person and third-person perspectives by pressing F5.
 
-### Quickly Switch Camera Offset Position: Left | Center | Right
+### Shoot enemies with precision like first person
 
-Short press CapsLock to switch between left and right; hold CapsLock to switch to the center.
+When aiming at a distant enemy in third person, this mod will automatically predict the target entity you want to shoot. You only need to put the crosshair above the enemy just like in first person.
 
 ### Precise Adjustment of Camera Offset with the Mouse
 
 Hold Z, and moving the mouse can adjust the camera offset (player's position on the screen), while using the mouse wheel can adjust the camera's distance from the player.
+
+### Quickly Switch Camera Offset Position: Left | Center | Right
+
+Short press CapsLock to switch between left and right; hold CapsLock to switch to the center.
 
 ### Automatically Enter Aim Mode
 
