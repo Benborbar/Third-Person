@@ -1,5 +1,19 @@
 # Changelog
 
+## v2.0.7-mc1.19.2
+
+### Features
+
+* Shoot enemies like in first person
+  * It can predict the target entity you want to shoot, even if the target is far away. Just aim at the target as if you were in first person.
+  * Added config option: `enable_target_entity_predict`.
+* Smooth transition when switching from third person to first person.
+* Compatible with mod _do_a_barrel_roll_ (only Fabric version).
+* Cloth Config API is now an optional dependency.
+* Temporarily switch to first person when the camera entity is inside a wall.
+* The smooth factors in the configuration has been changed to smoothing half-life for better intuition.
+* When updating smooth eye position, multiply by the distance between it and the camera. This ensures a more consistent smoothing effect at different camera distances.
+
 ## v2.0.6-mc1.19.2
 
 ### Features
