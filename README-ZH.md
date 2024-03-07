@@ -3,16 +3,16 @@
 | [English](./README.md) | 中文 |
 | ---------------------- | ---- |
 
-[![](https://img.shields.io/curseforge/dt/930880?style=flat&logo=curseforge&color=F1643%5E&cacheSeconds=3600&label=Downloads)](https://www.curseforge.com/minecraft/mc-mods/leawind-third-person)
-[![](https://img.shields.io/modrinth/dt/S3D3QF0M?style=flat&logo=modrinth&color=17B85A&cacheSeconds=3600&label=Downloads)](https://modrinth.com/mod/leawind-third-person)
+[![](https://img.shields.io/curseforge/dt/930880?style=flat&logo=curseforge&color=F1643%5E&cacheSeconds=3600&label=下载量)](https://www.curseforge.com/minecraft/mc-mods/leawind-third-person)
+[![](https://img.shields.io/modrinth/dt/S3D3QF0M?style=flat&logo=modrinth&color=17B85A&cacheSeconds=3600&label=下载量)](https://modrinth.com/mod/leawind-third-person)
 
-[![](https://img.shields.io/github/last-commit/LEAWIND/Third-Person?logo=github)](https://github.com/LEAWIND/Third-Person)
-[![](https://img.shields.io/github/deployments/LEAWIND/Third-Person/github-pages?style=flat&logo=github&label=Documentation&cacheSeconds=900)](https://leawind.github.io/Third-Person/en-US/?autolang)
+[![](https://img.shields.io/github/last-commit/LEAWIND/Third-Person?logo=github&label=上次提交)](https://github.com/LEAWIND/Third-Person)
+[![](https://img.shields.io/github/deployments/LEAWIND/Third-Person/github-pages?style=flat&logo=github&label=文档&cacheSeconds=900)](https://leawind.github.io/Third-Person/en-US/?autolang)
 
 </div>
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-![](https://img.shields.io/github/stars/LEAWIND/Third-Person?style=flat&logo=github&color=daaa3f)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?label=开源协议)](https://github.com/LEAWIND/Third-Person?tab=MIT-1-ov-file)
+[![Stars](https://img.shields.io/github/stars/LEAWIND/Third-Person?style=flat&logo=github&color=daaa3f&label=星标)]()
 
 # Leawind 的第三人称
 

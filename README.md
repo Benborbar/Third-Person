@@ -11,14 +11,12 @@
 
 </div>
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-![](https://img.shields.io/github/stars/LEAWIND/Third-Person?style=flat&logo=github&color=daaa3f)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LEAWIND/Third-Person?tab=MIT-1-ov-file)
+[![Stars](https://img.shields.io/github/stars/LEAWIND/Third-Person?style=flat&logo=github&color=daaa3f)]()
 
 # Leawind's Third Person
 
 A practical, smooth, feature-rich third person mod for all Minecraft players.
-
-## Features
 
 * **Seamless Perspective Switching:** Press F5 to smoothly transition between first-person and third-person views.
 
