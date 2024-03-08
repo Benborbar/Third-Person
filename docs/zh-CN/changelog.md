@@ -1,5 +1,26 @@
 # 更新日志
 
+## v2.0.8-alpha.1-mc1.20.1
+
+移植自 2.0.7-mc1.19.4
+
+### 特性
+
+* 使用 MixinExtras。
+  * 用`@WrapWithCondition`替换`@Redirect`，这应该能解决与_Do a Barrel Roll_的冲突。
+* 由于YACL存在的一些问题，删除了Forge版本对YACL的支持。
+
+### Bug修复
+
+* 按键 `force_aiming`，`toggle_aiming` 失效
+
+### 其他
+
+* 将 `changelog_latest.txt` 更新为 `changelog_latest.md`
+* 在YACL中更新了弃用的方法：`valueFormatter` -> `formatValue`
+* 更新构建脚本
+* 添加调试日志
+
 ## v2.0.7-mc1.19.4
 
 移植自 2.0.7-mc1.19.3
