@@ -1,6 +1,22 @@
 # Changelog
 
-## v2.0.8-alpha.1-mc1.20.1
+## v2.0.8-beta.2-mc1.20.1
+
+### Features
+
+* add config: `t2f_transition_halflife`
+
+### Bug fix
+
+* fix: Mouse sensitivity doubled in first person #49
+* fix: MixinExtras not inited
+* picking error in forge version
+
+### Other
+
+* optimize code
+
+## v2.0.8-beta.1-mc1.20.1
 
 Port from 2.0.7-mc1.19.4
 
