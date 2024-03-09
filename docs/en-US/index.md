@@ -38,7 +38,7 @@ This is a client-side mod.
 :::
 
 :::tip
-This documentation is only applicable to version 2.0.6 and above.
+This documentation is only applicable to version 2.0.7 and above.
 :::
 
 ## Features
