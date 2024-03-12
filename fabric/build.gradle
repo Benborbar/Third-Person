@@ -93,3 +93,21 @@ modrinth {
 		optional.project "yacl"
 	}
 }
+
+curseforge {
+	apiKey = System.getenv("CURSEFORGE_TOKEN")
+	options {
+		debug = Boolean.parseBoolean(publish_debug_mode)
+		forgeGradleIntegration = false
+		fabricIntegration = true
+		detectFabricApi = true
+	}
+	project {
+		id = curseforge_project_id
+		changelog = readChangeLog()
+		releaseType = mod_version_type
+		mainArtifact(remapJar) {
+			displayName = "${mod_version}-mc${minecraft_version}-fabric"
+		}
+	}
+}
